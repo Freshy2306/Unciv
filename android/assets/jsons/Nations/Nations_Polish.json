@@ -7,7 +7,7 @@
 		"translatedLeaderName": "Nabuchodonozor II",
 		"adjective": ["Babiloński"],
 		
-		"startIntroPart1": "Niechaj bogosławieństwo niebios będzie dla ciebie, O wielki Nabuchodonozorze, ojcze otężnego i starożytnego Babilonu! Młody był świat, gdy Sargon zbudował Babilon jakieś pięć lat tysięcy temu, dawno temu rozrósł się i prosperował, zdobywając swoje pierwsze imperium w XVIII w. p.n.e. pod boskim panowaniem Hammurabiego,dawcy prawa. Pomimo podbicia przez Kasytów, a następnie przez Asyryjczyków, Babilon przetrwał, wyłaniając się niczym feniks z popiołów zniszczenia i odzyskując niepodległość mimo wielu wrogów. Rzeczywiście Babilon był centrum sztuki oraz nauki w świecie starożytnym. O Nabuchodonozorze, twoje imperium przetrwało, ale w krótkim czasie po twojej śmierci, stopniowo upadało czy to przez potężnych Persów, a następnie Greków, aż do czasu gdy wielkie miasto zostało zniszczone w 141r. p.n.e.",
+		"startIntroPart1": "Niechaj bogosławieństwo niebios będzie dla ciebie, O wielki Nabuchodonozorze, ojcze potężnego i starożytnego Babilonu! Młody był świat, gdy Sargon zbudował Babilon jakieś pięć tysięcy lat temu, dawno temu rozrósł się i prosperował, zdobywając swoje pierwsze imperium w XVIII w. p.n.e. pod boskim panowaniem Hammurabiego,dawcy prawa. Pomimo podbicia przez Kasytów, a następnie przez Asyryjczyków, Babilon przetrwał, wyłaniając się niczym feniks z popiołów zniszczenia i odzyskując niepodległość mimo wielu wrogów. Rzeczywiście Babilon był centrum sztuki oraz nauki w świecie starożytnym. O Nabuchodonozorze, twoje imperium przetrwało, ale w krótkim czasie po twojej śmierci, stopniowo upadało czy to przez potężnych Persów, a następnie Greków, aż do czasu gdy wielkie miasto zostało zniszczone w 141r. p.n.e.",
 		"startIntroPart2": "Ale czy rzeczywiście Babilon już nigdy nie powróci, Wielki Nabuchodonozorze? Twój lud oczekuje od ciebie, że przywrócisz imperium do życia po raz kolejny. Czy podejmiesz to wyzwanie? Czy zbudujesz cywilizację, która wytrzyma próbę czasu?",
 
 		"declaringWar": "Demon pragnie krwi żołnierzy!",
@@ -31,7 +31,7 @@
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Pomysłowość",
-		"unique": "Odbierz za darmo Wielkiego Naukowca, gdy odkryjesz Pismo,Zdobywasz Wielkich Naukowców o 50% szybciej",
+		"unique": "Odbierz za darmo Wielkiego Naukowca, gdy odkryjesz Pismo, Zdobywasz Wielkich Naukowców o 50% szybciej",
 		"cities": ["Babilon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab"]
@@ -43,8 +43,8 @@
 		"translatedLeaderName": "Aleksander Wielki",
 		"adjective": ["Grecki"],
 		
-		"startIntroPart1": "Niech bogosławieństwo bogów będzie z tobą,O wielki Królu Aleksandrze! Jesteś władcą potężnego narodu greckiego. Twój lud żył przez tyle lat w odizolownych miastach-państwach -legendarne miasta takie jak Ateny,Sparta czy Teby dały światu wiele wspaniałych rzeczy, takich jak demokracja, filozofia, tragedia, sztuka, i architektura, które były fundamentem Zachodniej Cywilizacji. Chodź nieliczne i często wrogie sobie, w V wieku p.n.e udało im się pokonać swojego znacznie większego sąsiada, Persję na lądzie i morzu.",
-		"startIntroPart2": "Aleksandrze, twój lud jest gotów do marszu na wojnę, do szczerzenia wielkiej Greckiej kultury milionom oraz przniesienia Ci wiecznej chwały. Czy jesteś gotów zaakceptować swoje przeznaczenie, Królu Aleksandrze? Czy poprowadzisz swój lud do triumfu i wielkości? Czy będziesz w stanie zbudować cywilizację, która wytrzyma próbę czasu ?",
+		"startIntroPart1": "Niech bogosławieństwo bogów będzie z tobą, O wielki Królu Aleksandrze! Jesteś władcą potężnego narodu greckiego. Twój lud żył przez tyle lat w odizolownych miastach-państwach - legendarne miasta takie jak Ateny,Sparta czy Teby dały światu wiele wspaniałych rzeczy, takich jak demokracja, filozofia, tragedia, sztuka, i architektura, które były fundamentem Zachodniej Cywilizacji. Chodź nieliczne i często wrogie sobie, w V wieku p.n.e udało im się pokonać swojego znacznie większego sąsiada, Persję na lądzie i morzu.",
+		"startIntroPart2": "Aleksandrze, twój lud jest gotów do marszu na wojnę, do szerzenia wielkiej greckiej kultury milionom oraz przniesienia Ci wiecznej chwały. Czy jesteś gotów zaakceptować swoje przeznaczenie, Królu Aleksandrze? Czy poprowadzisz swój lud do triumfu i wielkości? Czy będziesz w stanie zbudować cywilizację, która wytrzyma próbę czasu?",
 		"declaringWar": "Stoisz mi na drodze, musisz być zniszczony!",
 		"attacked": "Prawdę mówiąc, ja też jestem zmęczony pokojem.",
 		"defeated": "Stałeś się w jakiś sposób moją zgubą! Jakim rodzajem bestii jesteś?",
@@ -73,7 +73,7 @@
 		"leaderName": "Wu Zetian",
 		"adjective": ["Chiński"],
 		
-		"startIntroPart1": "Niech Bogosławieństwo niebios będzie z tobą. Cesarzowa Wu Zetian, najpiękniejsza i najbardziej wyniosła władczyni Chin! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the leader of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
+		"startIntroPart1": "Niech błogosławieństwo niebios będzie z tobą. Cesarzowa Wu Zetian, najpiękniejsza i najbardziej wyniosła władczyni Chin! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the leader of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
 		"startIntroPart2": "Ty, wielka Królowo, która ze sprytem i wdziękiem podniosłaś się z pozycji niskiej konkubiny do pozycji Boskiej Cesarzowej - twój lud woła do ciebie, abyś ich poprowadziła! Wielkie Chiny po raz kolejny nękane ze wszystkich stron przez barbarzyńców. Czy jesteście w stanie pokonać waszych wszystkich licznych wrogów i przywrócić swój kraj do wielkości? Czy możecie zbudować cywilizację, która wytrzyma próbę czasu ?",
 		"declaringWar": "Już nigdy więcej nie będziesz mi przeszkadzać.Czeka cię spotkanie z 'Yamą'.",
 		"attacked": "Głupiec! Wypatroszę was wszystkich!",
